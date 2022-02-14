@@ -7,6 +7,6 @@ The proposed process present in this repository is a document driven process and
 It will also help the developpers to understand were to find the different documentation in the other projects.
 # Overview
 The next figure give a clean overview of the proposed process
-<img src="./Process_Overview.jpg">
+<img src="Process_Overview.jpg">
 # Upgrade/Update
 As usual you are welcome to improve the documentation and I will be curious to visit the new branches you will proposed with your own modifications.
