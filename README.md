@@ -18,5 +18,9 @@ The process is decomposed in 4 Phases with 4 gates and 12 milestones as followin
 - Phase 4 (P4) is dedicated to the system delivery
 More details are given in the pdf- and doc files present in this repository.
 
-# Upgrade/Update
+# Contents:
+The main documents are a pdf/doc files name Org_0-Electronic Process Product
+The diagrams folder contains the different diagrams in pdf but also the source used in the diagram editor Yed
+
+# Modifications/Updates
 As usual you are welcome to improve the documentation and I will be curious to visit the new branches you will proposed with your own modifications.
